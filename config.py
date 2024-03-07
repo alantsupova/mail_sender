@@ -1,5 +1,5 @@
-SENDER = 'cbs.forum@mail.ru'
+SENDER = 'forumcbs.vybrayona@mail.ru'
 # RECEIVERS = ['aleksaantsupova@yandex.ru']
-SENDER_NAME = 'CBS Forum <cbs.forum@mail.ru>'
-MAIL_THEME = 'Новые Бибилиотекари 5.0'
+SENDER_NAME = 'CBS Forum <forumcbs.vybrayona@mail.ru>'
+MAIL_THEME = 'Ссылка на трансляцию. Круглый стол «О блокаде. Говорим с детьми»'
 
